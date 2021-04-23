@@ -1,7 +1,9 @@
 .App {
-  text-align: center;
+  margin: auto;
+  width: 90%;
+  padding-top: 5rem;
 }
-
+/* 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -35,4 +37,12 @@
   to {
     transform: rotate(360deg);
   }
+} */
+.ant-switch-checked {
+  background-color: #66d128 !important;
 }
+
+.ant-table-row-expand-icon
+ {
+background-color: #f4f4f4 !important;
+ }
